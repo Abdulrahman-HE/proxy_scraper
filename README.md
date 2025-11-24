@@ -18,7 +18,7 @@ This repository contains regularly updated proxy lists, automatically refreshed 
 **Last Updated**: 2025-11-24 11:55:06 UTC
 
 
-This projct is provided for informational and educational purposes only
+This project is provided for informational and educational purposes only
 
 
 Owner: Abdulrahman AbuElEiss
