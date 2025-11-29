@@ -15,13 +15,12 @@ This repository contains regularly updated proxy lists, automatically refreshed 
 - SOCKS5: 104 proxies
 
 
-**Last Updated**: 2025-11-29 06:36:06 UTC
+**Last Updated**: 2025-11-29 06:37:52 UTC
 
 
 This project is provided for educational purposes only
 
 
-Owner: Abdulrahman AbuElEiss
-
+Owners: Abdulrahman AbuElEiss, Mohammed Dawoud
 
 Website: www.abdulrahman.info/about-me
